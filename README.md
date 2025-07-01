@@ -25,7 +25,7 @@ This plugin is a custom extension developed for Counter-Strike 2 servers. It off
 ### 1) Download the Plugin
 
 - Download the latest release from:  
- 👉 [Releases](https://github.com/SwindleR-b/CS2-HudSay/releases)
+ 👉 [Releases](https://github.com/SwindleR-b/CS2-Rebellion-Sound/releases)
 
 
 ### 2) Install the Plugin
