@@ -65,6 +65,8 @@ Here are some in-game screenshots of the plugin in action:
 
 ## 🎥 Video
 
+Here are some in-game video of the plugin in action:
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=53bX09ttOvY">
     <img src="https://img.youtube.com/vi/53bX09ttOvY/0.jpg" alt="Demo Videosu" />
