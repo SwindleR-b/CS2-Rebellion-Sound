@@ -59,4 +59,4 @@ _cs2/addons/counterstrikesharp/config/plugins/JailbreakRebellion/JailbreakRebell
 
 Here are some in-game screenshots of the plugin in action:
 
-<p align="center"> <img src="screenshots/rebellion.png" alt="Rebellion Sound" width="600"/> </p>
+<p align="center"> <img src="screenshots/rebellion1.png" alt="Rebellion Sound" width="600"/> </p>
