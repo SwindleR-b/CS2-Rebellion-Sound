@@ -1,0 +1,12 @@
+{
+  "RebellionTriggered": "İsyan {0} tarafından başlatıldı!",
+  "GuardsAlert": "Gardiyanlar dikkat! İsyan var!",
+  "SoundEnabled": "İsyan sesi açıldı! ✅",
+  "SoundDisabled": "İsyan sesi kapatıldı! ❌",
+  "HudPlayerNamePrefix": "İsyancı",
+  "TestExecuted": "İsyan testi başarıyla çalıştırıldı!",
+  "ConfigReloaded": "Konfigürasyon başarıyla yeniden yüklendi!",
+  "ConfigNotFound": "Konfigürasyon dosyası bulunamadı, varsayılan ayarlar kullanılıyor.",
+  "ConfigError": "Konfigürasyon hatası: {0}",
+  "InGameOnly": "Bu komut sadece oyun içinde kullanılabilir."
+}

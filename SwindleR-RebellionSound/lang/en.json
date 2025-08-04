@@ -1,0 +1,12 @@
+{
+  "RebellionTriggered": "{0} started a rebellion!",
+  "GuardsAlert": "Guards attention! There's a rebellion!",
+  "SoundEnabled": "Rebellion sound enabled! ✅",
+  "SoundDisabled": "Rebellion sound disabled! ❌",
+  "HudPlayerNamePrefix": "Rebel",
+  "TestExecuted": "Rebellion test executed successfully!",
+  "ConfigReloaded": "Configuration reloaded successfully!",
+  "ConfigNotFound": "Configuration file not found, using default settings.",
+  "ConfigError": "Configuration error: {0}",
+  "InGameOnly": "This command can only be used in-game."
+}
